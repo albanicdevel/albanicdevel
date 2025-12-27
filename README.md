@@ -1,1 +1,1 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=albanicdevel&show_icons=true)
