@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=albanicdevel)](https://git.io/streak-stats)
+![alt](https://githubcard.com/albanicdevel.svg?d=jo90jCNQ)
