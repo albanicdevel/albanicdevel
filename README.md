@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?albanicdevel=anuraghazra&show_icons=true&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=albanicdevel)](https://git.io/streak-stats)
